@@ -1,3 +1,4 @@
+
 # **Obtenir un Pixel Art net et précis dans Godot**
 
 Pour que ton jeu en Pixel Art sous Godot ait un rendu précis, sans effet de flou sur les pixels, tu dois effectuer les réglages suivants :
@@ -20,8 +21,6 @@ Pour que ton jeu en Pixel Art sous Godot ait un rendu précis, sans effet de flo
 
 • Définis cette option sur **« Plus proche »** (*Nearest* en anglais).
 
-[Menu project settings](/Users/lefebvreremy/Library/CloudStorage/Dropbox/octarine/godot_tuto/Godot_tuto/img/crisp_img.png "simple caption")
+![Menu Project Settings](/Users/lefebvreremy/Library/CloudStorage/Dropbox/octarine/godot_tuto/Godot_tuto/img/crisp_img.png)
 
-Grâce à ces réglages, tes images en Pixel Art resteront nettes et parfaitement pixellisées dans ton jeu.
-
-![](./img/crisp_img.png)
+Grâce à ces réglages, les images en Pixel Art resteront nettes et parfaitement pixellisées dans le jeu.
